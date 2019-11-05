@@ -3,3 +3,5 @@ input_goods_south/
 .DS_Store
 Sample_color.hdf5
 outputs/
+input_goods_south/gds.fits
+
