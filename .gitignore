@@ -2,3 +2,4 @@ input_goods_south/gds.fits
 .ipynb_checkpoints
 .DS_Store
 Sample_color.hdf5
+outputs/
